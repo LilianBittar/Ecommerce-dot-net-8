@@ -26,6 +26,7 @@ namespace Catalog.Infrastructure.Data
                         brandCollection.InsertOneAsync(item);
                     }
                 }
+            }
         }
     }
 }
